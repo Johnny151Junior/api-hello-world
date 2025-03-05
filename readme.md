@@ -6,7 +6,7 @@ go run .
 
 # Start Docker Build And Run Project
 ```sh
-docker-compose up --build -d
+docker compose up --build -d
 ```
 
 # Make Run Go Run Project
